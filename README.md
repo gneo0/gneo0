@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a freelance full-stack web developer<br>- 📚 I'm currently learning GO<br>- ⚡ In my free time I solve problems and contribute to open-source projects</p>
+<p align="left">- 🔭 I’m working as a freelance full-stack web developer<br>- 📚 I'm currently learning GO<br>- ⚡ In my free time I solve problems and contribute to open-source projects<br>- 🔗 My portfolio: <a href="https://geo-neo.vercel.app/" target="_blank">geo-neo.vercel.app</a></p>
 
 ###
 
